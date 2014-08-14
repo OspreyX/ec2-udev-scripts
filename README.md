@@ -1,5 +1,6 @@
 ec2-udev-scripts
 ================
+<<<<<<< HEAD
 
 Some udev rules and scripts to enable /dev/disk/by-ebs-volumeid
 
@@ -34,3 +35,5 @@ proc        /proc       proc    defaults        0   0
 /dev/disk/by-ebs-volumeid/vol-eaa74883 /mnt/ebs ext4 defaults,noatime,_netdev 0 0
 [ec2-user@ip-10-244-161-112 ~]
 
+=======
+>>>>>>> ed4ad87731fedf553bf1186c8ff0224bc4599ef4
