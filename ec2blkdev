@@ -2,7 +2,7 @@
 #
 # cloud-init remote
 #
-# chkconfig:   - 24 99
+# chkconfig:   - 12 99
 # description: Script to call udevadm to setup any links to devices already attached at instance launch
 
 ### BEGIN INIT INFO
